@@ -1,19 +1,18 @@
 # FNN: Feedforward Neural Network
 
-A concise feedforward neural network built from scratch in Python. Ideal for learning forward propagation and backpropagation.
+A simple feedforward neural network implementation in Python.
 
 ## Features
-- **Customizable Architecture:** Define layers, neurons, and activation functions.
-- **Core Functionality:** Implements forward propagation and gradient descent-based backpropagation.
-- **Modular Design:** Easy-to-read and extend.
 
-## Installation
+- **Simple & Intuitive:** Easy-to-understand implementation.
+- **Flexible:** Customize layers and activation functions.
+- **Educational:** Ideal for learning the basics of neural networks.
 
-Clone the repository, set up a virtual environment, and install dependencies:
+Clone the repository and run the main script:
 
 ```bash
 git clone https://github.com/hvbhanot/FNN.git
 cd FNN
-python -m venv venv
-source venv/bin/activate 
-pip install -r requirements.txt
+python main.py
+
+
